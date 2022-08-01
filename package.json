@@ -1,0 +1,32 @@
+{
+    "name": "schwifty",
+    "displayName": "Schwifty",
+    "description": "Schwifty Time! A dark theme to enjoy while coding in multiple languages in VSCode",
+    "version": "0.0.1",
+    "publisher": "Geo",
+    "icon": "schwifty.png",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Schwifty",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Schwifty-color-theme.json"
+            },
+            {
+                "label": "Schwiftier",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Schwiftier-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GeoRCode/Schwifty.git"
+    }
+}
