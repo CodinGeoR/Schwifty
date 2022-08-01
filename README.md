@@ -16,8 +16,8 @@ Schwifty                   |  Schwiftier
 ## Author
 Made by:
 | [![Geo C-137](https://github.com/GeoRCode.png?size=87)](https://github.com/GeoRCode) |
-| ---------------------------------------------------------------------------------------- |
-| [Geo C-137](https://github.com/GeoRCode)                                               |
+| -------------------------------------------------------------------------------------|
+| [Geo C-137](https://github.com/GeoRCode)                                             |
 
 
 ## **Enjoy! ^^**
