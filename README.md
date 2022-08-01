@@ -9,7 +9,7 @@
 
 Schwifty                   |  Schwiftier
 :-------------------------:|:-------------------------:
-![](./pythonTY.png)            |  ![](./pythonTIER.png)
+![](./pythonTY.png)        |![](./pythonTIER.png)
 
 <br />
 
